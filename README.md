@@ -23,7 +23,7 @@ Mình là một sinh viên khoa CNTT đến từ Huflit
 - Chơi game
 - Cafe
 ### ✍️ Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+![cham-ngon-tieng-anh-ngan-ve-cuoc-song](https://github.com/user-attachments/assets/d87d1753-4797-46ef-90ed-164f7d5e6425)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Lê Nghĩa Cao&limit=5&theme=dark&combine_all_yearly_contributions=true)
