@@ -22,7 +22,7 @@ Mình là một sinh viên khoa CNTT đến từ Huflit
 - Đọc sách
 - Chơi game
 - Cafe
-### ✍️ Random Dev Quote
+### ✍️ Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 🔝 Top Contributed Repo
